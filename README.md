@@ -38,6 +38,22 @@ A comprehensive PHP Laravel-based web application designed to support three dist
 - **Employer**: Post jobs and manage applications
 - **Candidate**: Browse jobs, submit applications, and track status
 
+## Demo Login Credentials
+
+You can use the following demo credentials to explore the system:
+
+### Admin
+- **Email**: admin@gmail.com  
+- **Password**: 12345678
+
+### Employer (Post Jobs)
+- **Email**: test@gmail.com  
+- **Password**: 12345678
+
+### Candidate (User)
+- **Email**: john123@gmail.com  
+- **Password**: 12345678
+
 ## License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
